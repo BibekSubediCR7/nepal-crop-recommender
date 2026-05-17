@@ -1,0 +1,953 @@
+district,crop_name,season,area_ha,production_mt,yield_mt_ha
+Achham,Barley,Annual,391.0,395.0,1.01
+Achham,Black Gram,Annual,103.0,68.0,0.66
+Achham,Buckwheat,Annual,10.0,7.0,0.72
+Achham,Lentil,Annual,26.0,23.0,0.89
+Achham,Maize,Annual,5354.0,13171.0,2.46
+Achham,Millet,Annual,3402.0,4079.0,1.2
+Achham,Paddy,Barkhe (Main),9590.0,19180.0,2.0
+Achham,Pigeon Pea,Annual,5.0,6.0,1.16
+Achham,Potato,Annual,865.0,15138.0,17.5
+Achham,Soybean,Annual,260.0,221.0,0.85
+Achham,Sugarcane,Annual,8.0,280.0,35.0
+Achham,Wheat,Annual,10670.0,18993.0,1.78
+Arghakhanchi,Barley,Annual,285.0,330.6,1.16
+Arghakhanchi,Black Gram,Annual,41.0,37.0,0.91
+Arghakhanchi,Buckwheat,Annual,96.0,105.9,1.1
+Arghakhanchi,Chickpea,Annual,80.0,78.0,0.98
+Arghakhanchi,Lentil,Annual,225.0,215.0,0.96
+Arghakhanchi,Maize,Annual,15200.0,53677.0,3.53
+Arghakhanchi,Millet,Annual,490.0,596.0,1.0
+Arghakhanchi,Paddy,Barkhe (Main),6982.0,25205.0,3.61
+Arghakhanchi,Paddy,Chaite (Early),200.0,730.0,3.65
+Arghakhanchi,Potato,Annual,826.0,12816.0,15.52
+Arghakhanchi,Soybean,Annual,47.0,55.0,1.0
+Arghakhanchi,Sugarcane,Annual,3.0,140.0,46.5
+Arghakhanchi,Wheat,Annual,4665.0,13706.0,2.94
+Baglung,Barley,Annual,95.0,141.0,1.48
+Baglung,Black Gram,Annual,156.0,212.0,1.36
+Baglung,Buckwheat,Annual,80.0,120.0,1.5
+Baglung,Chickpea,Annual,4.0,5.0,1.27
+Baglung,Lentil,Annual,49.0,51.0,1.05
+Baglung,Maize,Annual,15600.0,54600.0,3.5
+Baglung,Millet,Annual,10300.0,13287.0,1.29
+Baglung,Paddy,Barkhe (Main),5707.0,20510.0,3.59
+Baglung,Paddy,Chaite (Early),10.0,41.0,4.1
+Baglung,Pigeon Pea,Annual,12.0,10.0,0.85
+Baglung,Potato,Annual,3780.0,62370.0,16.5
+Baglung,Soybean,Annual,483.0,628.0,1.3
+Baglung,Sugarcane,Annual,12.0,420.0,35.0
+Baglung,Wheat,Annual,6000.0,15082.0,2.51
+Baitadi,Barley,Annual,687.0,586.0,0.85
+Baitadi,Black Gram,Annual,237.0,188.0,0.8
+Baitadi,Buckwheat,Annual,18.0,13.0,0.72
+Baitadi,Lentil,Annual,180.0,80.0,0.45
+Baitadi,Maize,Annual,8700.0,24492.0,2.82
+Baitadi,Millet,Annual,315.0,420.0,1.33
+Baitadi,Paddy,Barkhe (Main),5225.0,13794.0,2.64
+Baitadi,Potato,Annual,860.0,14809.0,17.22
+Baitadi,Soybean,Annual,560.0,560.0,1.0
+Baitadi,Sugarcane,Annual,180.0,3978.0,22.1
+Baitadi,Wheat,Annual,12350.0,20378.0,1.65
+Bajhang,Barley,Annual,2440.0,3050.0,1.25
+Bajhang,Black Gram,Annual,295.0,263.0,0.89
+Bajhang,Buckwheat,Annual,28.0,28.0,1.0
+Bajhang,Lentil,Annual,65.0,65.0,1.0
+Bajhang,Maize,Annual,4075.0,10717.0,2.63
+Bajhang,Millet,Annual,2250.0,2903.0,1.29
+Bajhang,Paddy,Barkhe (Main),6150.0,16298.0,2.65
+Bajhang,Potato,Annual,1720.0,28552.0,16.6
+Bajhang,Soybean,Annual,195.0,195.0,1.0
+Bajhang,Sugarcane,Annual,3.0,53.0,17.82
+Bajhang,Wheat,Annual,9365.0,20697.0,2.21
+Bajura,Barley,Annual,1550.0,1829.0,1.18
+Bajura,Black Gram,Annual,105.0,95.0,0.9
+Bajura,Buckwheat,Annual,20.0,13.0,0.65
+Bajura,Lentil,Annual,45.0,34.0,0.75
+Bajura,Maize,Annual,1120.0,2800.0,2.5
+Bajura,Millet,Annual,2555.0,3194.0,1.25
+Bajura,Paddy,Barkhe (Main),3915.0,10218.0,2.61
+Bajura,Potato,Annual,1690.0,28392.0,16.8
+Bajura,Soybean,Annual,170.0,194.0,1.14
+Bajura,Sugarcane,Annual,10.0,185.0,18.5
+Bajura,Wheat,Annual,6430.0,11896.0,1.85
+Banke,Barley,Annual,5.0,5.9,1.32
+Banke,Black Gram,Annual,271.0,290.0,1.07
+Banke,Chickpea,Annual,1225.0,1193.0,0.97
+Banke,Lentil,Annual,6880.0,6774.0,0.98
+Banke,Maize,Annual,8783.0,32575.0,3.71
+Banke,Paddy,Barkhe (Main),34675.0,145635.0,4.2
+Banke,Paddy,Chaite (Early),35.0,142.0,4.06
+Banke,Pigeon Pea,Annual,1305.0,1302.0,1.0
+Banke,Potato,Annual,3215.0,47904.0,14.9
+Banke,Soybean,Annual,1.0,1.0,1.0
+Banke,Sugarcane,Annual,38.0,1685.0,44.34
+Banke,Wheat,Annual,21515.0,73090.0,3.4
+Bara,Barley,Annual,3.0,3.0,0.9
+Bara,Black Gram,Annual,42.0,61.0,1.45
+Bara,Chickpea,Annual,200.0,290.0,1.45
+Bara,Lentil,Annual,7500.0,8625.0,1.15
+Bara,Maize,Annual,15050.0,90055.0,5.9
+Bara,Millet,Annual,5.0,5.0,1.0
+Bara,Paddy,Barkhe (Main),46020.0,190983.0,4.15
+Bara,Paddy,Chaite (Early),12530.0,60755.0,4.85
+Bara,Pigeon Pea,Annual,380.0,388.0,1.02
+Bara,Potato,Annual,7440.0,118296.0,15.9
+Bara,Soybean,Annual,25.0,34.0,1.35
+Bara,Sugarcane,Annual,3540.0,147264.0,41.6
+Bara,Wheat,Annual,30000.0,90000.0,3.0
+Bardiya,Barley,Annual,6.0,7.9,1.32
+Bardiya,Black Gram,Annual,215.0,228.0,1.06
+Bardiya,Chickpea,Annual,620.0,693.0,1.12
+Bardiya,Lentil,Annual,8500.0,8240.0,0.97
+Bardiya,Maize,Annual,5530.0,25198.0,4.56
+Bardiya,Paddy,Barkhe (Main),50100.0,225450.0,4.5
+Bardiya,Paddy,Chaite (Early),1450.0,7902.0,5.45
+Bardiya,Pigeon Pea,Annual,1190.0,438.0,0.37
+Bardiya,Potato,Annual,4305.0,71076.0,16.51
+Bardiya,Soybean,Annual,165.0,198.0,1.2
+Bardiya,Sugarcane,Annual,212.0,10134.0,47.8
+Bardiya,Wheat,Annual,23335.0,86340.0,3.7
+Bhaktapur,Barley,Annual,15.0,47.0,3.1
+Bhaktapur,Black Gram,Annual,14.0,13.0,0.94
+Bhaktapur,Chickpea,Annual,12.0,11.0,0.92
+Bhaktapur,Lentil,Annual,17.0,18.0,1.05
+Bhaktapur,Maize,Annual,1839.0,9287.0,5.05
+Bhaktapur,Millet,Annual,81.0,211.0,2.6
+Bhaktapur,Paddy,Barkhe (Main),3719.0,20455.0,5.5
+Bhaktapur,Potato,Annual,958.0,18710.0,19.53
+Bhaktapur,Soybean,Annual,100.0,136.0,1.36
+Bhaktapur,Wheat,Annual,1872.0,9678.0,5.17
+Bhojpur,Barley,Annual,8.0,9.6,1.2
+Bhojpur,Black Gram,Annual,140.0,126.0,0.9
+Bhojpur,Buckwheat,Annual,28.0,23.0,0.82
+Bhojpur,Lentil,Annual,15.0,18.0,1.2
+Bhojpur,Maize,Annual,32825.0,78780.0,2.4
+Bhojpur,Millet,Annual,5052.0,7578.0,1.5
+Bhojpur,Paddy,Barkhe (Main),11147.0,32995.0,2.96
+Bhojpur,Paddy,Chaite (Early),409.0,1800.0,4.4
+Bhojpur,Potato,Annual,3272.0,56998.0,17.42
+Bhojpur,Soybean,Annual,77.0,96.0,1.25
+Bhojpur,Sugarcane,Annual,10.0,115.0,11.5
+Bhojpur,Wheat,Annual,390.0,710.0,1.82
+Chitwan,Black Gram,Annual,350.0,343.0,0.98
+Chitwan,Buckwheat,Annual,85.0,94.0,1.1
+Chitwan,Chickpea,Annual,9.0,11.0,1.27
+Chitwan,Lentil,Annual,1538.0,2076.0,1.35
+Chitwan,Maize,Annual,17110.0,68611.0,4.01
+Chitwan,Millet,Annual,1050.0,1208.0,1.15
+Chitwan,Paddy,Barkhe (Main),24150.0,94184.0,3.9
+Chitwan,Paddy,Chaite (Early),5540.0,31024.0,5.6
+Chitwan,Pigeon Pea,Annual,9.0,10.0,1.1
+Chitwan,Potato,Annual,1990.0,39676.0,19.94
+Chitwan,Soybean,Annual,310.0,471.0,1.52
+Chitwan,Sugarcane,Annual,52.0,1170.0,22.5
+Chitwan,Wheat,Annual,4711.0,15593.0,3.31
+Dadeldhura,Barley,Annual,200.0,171.0,0.85
+Dadeldhura,Black Gram,Annual,202.0,198.0,0.98
+Dadeldhura,Buckwheat,Annual,2.0,1.0,0.63
+Dadeldhura,Lentil,Annual,235.0,258.0,1.1
+Dadeldhura,Maize,Annual,3800.0,10000.0,2.63
+Dadeldhura,Millet,Annual,335.0,569.0,1.7
+Dadeldhura,Paddy,Barkhe (Main),3780.0,11264.0,2.98
+Dadeldhura,Potato,Annual,1550.0,30830.0,19.89
+Dadeldhura,Soybean,Annual,426.0,523.0,1.23
+Dadeldhura,Sugarcane,Annual,15.0,347.0,23.13
+Dadeldhura,Wheat,Annual,7590.0,16678.0,2.2
+Dailekh,Barley,Annual,181.0,230.0,1.27
+Dailekh,Black Gram,Annual,82.0,62.0,0.76
+Dailekh,Buckwheat,Annual,27.0,26.0,0.98
+Dailekh,Chickpea,Annual,470.0,541.0,1.15
+Dailekh,Lentil,Annual,320.0,275.0,0.86
+Dailekh,Maize,Annual,19120.0,45310.0,2.37
+Dailekh,Millet,Annual,1950.0,2541.0,1.3
+Dailekh,Paddy,Barkhe (Main),7925.0,26470.0,3.34
+Dailekh,Pigeon Pea,Annual,1.0,1.0,1.0
+Dailekh,Potato,Annual,1924.0,33458.0,17.39
+Dailekh,Soybean,Annual,260.0,213.0,0.82
+Dailekh,Sugarcane,Annual,4.0,135.0,33.75
+Dailekh,Wheat,Annual,13175.0,17274.0,1.31
+Dang,Barley,Annual,15.0,29.9,1.99
+Dang,Black Gram,Annual,57.0,62.0,1.08
+Dang,Buckwheat,Annual,32.0,38.8,1.0
+Dang,Chickpea,Annual,361.0,346.0,0.96
+Dang,Lentil,Annual,15230.0,14371.0,0.94
+Dang,Maize,Annual,24985.0,86475.0,3.46
+Dang,Millet,Annual,14.0,19.0,1.0
+Dang,Paddy,Barkhe (Main),35184.0,158328.0,4.5
+Dang,Paddy,Chaite (Early),198.0,801.0,4.05
+Dang,Pigeon Pea,Annual,304.0,329.0,1.08
+Dang,Potato,Annual,2557.0,40488.0,15.83
+Dang,Soybean,Annual,55.0,71.0,1.0
+Dang,Sugarcane,Annual,27.0,1179.0,43.68
+Dang,Wheat,Annual,11530.0,35743.0,3.1
+Darchula,Barley,Annual,1018.0,1212.0,1.19
+Darchula,Black Gram,Annual,170.0,124.0,0.73
+Darchula,Buckwheat,Annual,63.0,54.0,0.86
+Darchula,Lentil,Annual,35.0,25.0,0.71
+Darchula,Maize,Annual,5538.0,15618.0,2.82
+Darchula,Millet,Annual,1215.0,1531.0,1.26
+Darchula,Paddy,Barkhe (Main),3480.0,9048.0,2.6
+Darchula,Pigeon Pea,Annual,1.0,1.0,1.0
+Darchula,Potato,Annual,770.0,12867.0,16.71
+Darchula,Soybean,Annual,250.0,213.0,0.85
+Darchula,Sugarcane,Annual,45.0,1286.0,28.58
+Darchula,Wheat,Annual,5950.0,11350.0,1.91
+Dhading,Barley,Annual,215.0,191.0,0.89
+Dhading,Black Gram,Annual,225.0,180.0,0.8
+Dhading,Buckwheat,Annual,7.0,4.0,0.6
+Dhading,Chickpea,Annual,5.0,4.0,0.8
+Dhading,Lentil,Annual,3.0,2.0,0.8
+Dhading,Maize,Annual,19300.0,48250.0,2.5
+Dhading,Millet,Annual,7350.0,6762.0,0.92
+Dhading,Paddy,Barkhe (Main),11567.0,42798.0,3.7
+Dhading,Paddy,Chaite (Early),2288.0,8466.0,3.7
+Dhading,Pigeon Pea,Annual,20.0,18.0,0.9
+Dhading,Potato,Annual,1950.0,29250.0,15.0
+Dhading,Soybean,Annual,380.0,380.0,1.0
+Dhading,Sugarcane,Annual,10.0,350.0,35.0
+Dhading,Wheat,Annual,3620.0,8145.0,2.25
+Dhankuta,Barley,Annual,2.3,2.3,1.0
+Dhankuta,Black Gram,Annual,432.0,662.0,0.92
+Dhankuta,Buckwheat,Annual,4.0,4.0,1.13
+Dhankuta,Chickpea,Annual,6.0,7.4,1.2
+Dhankuta,Lentil,Annual,270.0,446.5,1.65
+Dhankuta,Maize,Annual,13470.0,45488.0,3.38
+Dhankuta,Millet,Annual,7230.0,8242.0,1.14
+Dhankuta,Paddy,Barkhe (Main),4445.0,14802.0,3.33
+Dhankuta,Paddy,Chaite (Early),1385.0,6260.0,4.52
+Dhankuta,Pigeon Pea,Annual,3.0,3.0,1.0
+Dhankuta,Potato,Annual,2118.0,41141.0,19.42
+Dhankuta,Soybean,Annual,195.0,310.0,1.59
+Dhankuta,Sugarcane,Annual,50.0,1104.0,22.08
+Dhankuta,Wheat,Annual,1295.0,2720.0,2.1
+Dhanusha,Barley,Annual,1.0,1.0,1.0
+Dhanusha,Black Gram,Annual,255.0,270.0,1.06
+Dhanusha,Chickpea,Annual,99.0,110.0,1.11
+Dhanusha,Lentil,Annual,5240.0,5100.0,0.97
+Dhanusha,Maize,Annual,3350.0,9515.0,2.84
+Dhanusha,Millet,Annual,310.0,370.0,1.19
+Dhanusha,Paddy,Barkhe (Main),42235.0,118258.0,2.8
+Dhanusha,Paddy,Chaite (Early),830.0,3060.0,3.69
+Dhanusha,Pigeon Pea,Annual,1100.0,1115.0,1.01
+Dhanusha,Potato,Annual,5340.0,66750.0,12.5
+Dhanusha,Soybean,Annual,312.0,422.0,1.35
+Dhanusha,Sugarcane,Annual,3610.0,155230.0,43.0
+Dhanusha,Wheat,Annual,33500.0,97150.0,2.9
+Dolakha,Barley,Annual,134.0,162.0,1.21
+Dolakha,Black Gram,Annual,144.0,140.0,0.97
+Dolakha,Buckwheat,Annual,1052.0,1157.0,1.1
+Dolakha,Chickpea,Annual,7.0,5.0,0.75
+Dolakha,Lentil,Annual,20.0,18.0,0.91
+Dolakha,Maize,Annual,6171.0,22030.0,3.57
+Dolakha,Millet,Annual,3657.0,4864.0,1.33
+Dolakha,Paddy,Barkhe (Main),2750.0,7150.0,2.6
+Dolakha,Paddy,Chaite (Early),45.0,135.0,3.0
+Dolakha,Pigeon Pea,Annual,2.0,2.0,1.0
+Dolakha,Potato,Annual,3072.0,56003.0,18.23
+Dolakha,Soybean,Annual,355.0,490.0,1.38
+Dolakha,Wheat,Annual,4242.0,7508.0,1.77
+Dolpa,Barley,Annual,325.0,312.0,0.96
+Dolpa,Black Gram,Annual,1.0,1.0,0.62
+Dolpa,Buckwheat,Annual,805.0,997.0,1.24
+Dolpa,Lentil,Annual,2.0,2.0,1.0
+Dolpa,Maize,Annual,2159.0,3750.0,1.74
+Dolpa,Millet,Annual,294.0,305.0,1.04
+Dolpa,Paddy,Barkhe (Main),199.0,342.0,1.72
+Dolpa,Potato,Annual,715.0,12891.0,18.03
+Dolpa,Soybean,Annual,32.0,62.0,1.94
+Dolpa,Wheat,Annual,2275.0,4165.0,1.83
+Doti,Barley,Annual,210.0,181.0,0.86
+Doti,Black Gram,Annual,360.0,342.0,0.95
+Doti,Buckwheat,Annual,5.0,4.0,0.75
+Doti,Lentil,Annual,530.0,636.0,1.2
+Doti,Maize,Annual,3650.0,10622.0,2.91
+Doti,Millet,Annual,4350.0,5264.0,1.21
+Doti,Paddy,Barkhe (Main),6988.0,18448.0,2.64
+Doti,Pigeon Pea,Annual,2.0,2.0,1.0
+Doti,Potato,Annual,1791.0,34996.0,19.54
+Doti,Soybean,Annual,765.0,987.0,1.29
+Doti,Sugarcane,Annual,14.0,511.0,36.5
+Doti,Wheat,Annual,10300.0,21836.0,2.12
+Gorkha,Barley,Annual,110.0,141.0,1.28
+Gorkha,Black Gram,Annual,2765.0,2425.0,0.88
+Gorkha,Buckwheat,Annual,200.0,285.0,1.43
+Gorkha,Chickpea,Annual,95.0,101.0,1.06
+Gorkha,Lentil,Annual,143.0,135.0,0.94
+Gorkha,Maize,Annual,18005.0,46815.0,2.6
+Gorkha,Millet,Annual,11200.0,13550.0,1.21
+Gorkha,Paddy,Barkhe (Main),10140.0,38532.0,3.8
+Gorkha,Paddy,Chaite (Early),725.0,3154.0,4.35
+Gorkha,Pigeon Pea,Annual,66.0,60.0,0.91
+Gorkha,Potato,Annual,2553.0,51260.0,20.08
+Gorkha,Soybean,Annual,795.0,975.0,1.23
+Gorkha,Sugarcane,Annual,57.0,815.0,14.3
+Gorkha,Wheat,Annual,2500.0,5925.0,2.37
+Gulmi,Barley,Annual,411.0,542.5,1.32
+Gulmi,Black Gram,Annual,137.0,121.0,0.88
+Gulmi,Buckwheat,Annual,198.0,216.8,1.0
+Gulmi,Chickpea,Annual,24.0,24.0,0.99
+Gulmi,Lentil,Annual,127.0,113.0,0.89
+Gulmi,Maize,Annual,22418.0,77173.0,3.44
+Gulmi,Millet,Annual,2883.0,3690.0,1.28
+Gulmi,Paddy,Barkhe (Main),7120.0,23140.0,3.25
+Gulmi,Paddy,Chaite (Early),340.0,1581.0,4.65
+Gulmi,Pigeon Pea,Annual,3.0,3.0,0.87
+Gulmi,Potato,Annual,893.0,13995.0,15.67
+Gulmi,Soybean,Annual,151.0,186.0,1.23
+Gulmi,Sugarcane,Annual,155.0,6696.0,43.2
+Gulmi,Wheat,Annual,6370.0,19005.0,2.98
+Humla,Barley,Annual,642.0,827.0,1.29
+Humla,Black Gram,Annual,42.0,32.0,0.75
+Humla,Buckwheat,Annual,810.0,895.0,1.1
+Humla,Lentil,Annual,25.0,27.0,1.08
+Humla,Maize,Annual,231.0,290.0,1.26
+Humla,Millet,Annual,1062.0,1125.0,1.06
+Humla,Paddy,Barkhe (Main),599.0,1036.0,1.73
+Humla,Potato,Annual,865.0,15674.0,18.12
+Humla,Soybean,Annual,38.0,36.0,0.95
+Humla,Wheat,Annual,1072.0,1115.0,1.04
+Ilam,Barley,Annual,48.0,53.76,1.12
+Ilam,Black Gram,Annual,455.0,477.75,1.05
+Ilam,Buckwheat,Annual,16.0,16.0,1.02
+Ilam,Chickpea,Annual,10.0,7.0,0.7
+Ilam,Lentil,Annual,65.0,84.5,1.3
+Ilam,Maize,Annual,33002.0,129368.0,3.92
+Ilam,Millet,Annual,1578.0,1894.0,1.2
+Ilam,Paddy,Barkhe (Main),10067.0,33724.0,3.35
+Ilam,Paddy,Chaite (Early),1155.0,5486.0,4.75
+Ilam,Pigeon Pea,Annual,61.0,61.0,1.0
+Ilam,Potato,Annual,7215.0,135497.0,18.78
+Ilam,Soybean,Annual,120.0,120.0,1.0
+Ilam,Sugarcane,Annual,12.0,60.0,5.0
+Ilam,Wheat,Annual,4520.0,11526.0,2.55
+Jajarkot,Barley,Annual,479.0,685.0,1.43
+Jajarkot,Black Gram,Annual,270.0,259.0,1.0
+Jajarkot,Buckwheat,Annual,31.0,45.0,1.45
+Jajarkot,Chickpea,Annual,35.0,35.0,1.0
+Jajarkot,Lentil,Annual,620.0,651.0,1.05
+Jajarkot,Maize,Annual,10250.0,33313.0,3.25
+Jajarkot,Millet,Annual,1305.0,1581.0,1.21
+Jajarkot,Paddy,Barkhe (Main),2850.0,9120.0,3.2
+Jajarkot,Potato,Annual,1850.0,18611.0,10.06
+Jajarkot,Soybean,Annual,730.0,737.0,1.01
+Jajarkot,Wheat,Annual,10410.0,25100.0,2.41
+Jhapa,Barley,Annual,5.0,9.5,1.9
+Jhapa,Black Gram,Annual,310.0,310.0,1.0
+Jhapa,Buckwheat,Annual,2.0,4.0,2.01
+Jhapa,Chickpea,Annual,310.0,542.5,1.75
+Jhapa,Lentil,Annual,5100.0,6018.0,1.18
+Jhapa,Maize,Annual,44350.0,260335.0,5.87
+Jhapa,Millet,Annual,800.0,1032.0,1.29
+Jhapa,Paddy,Barkhe (Main),73950.0,373448.0,5.05
+Jhapa,Paddy,Chaite (Early),19850.0,104014.0,5.24
+Jhapa,Pigeon Pea,Annual,260.0,390.0,1.5
+Jhapa,Potato,Annual,15795.0,258564.0,16.37
+Jhapa,Soybean,Annual,50.0,46.0,0.91
+Jhapa,Sugarcane,Annual,300.0,8100.0,27.0
+Jhapa,Wheat,Annual,3000.0,7950.0,2.65
+Jumla,Barley,Annual,1935.0,3515.0,1.82
+Jumla,Buckwheat,Annual,95.0,98.0,1.03
+Jumla,Lentil,Annual,17.0,23.0,1.35
+Jumla,Maize,Annual,4450.0,10500.0,2.36
+Jumla,Millet,Annual,2750.0,3875.0,1.41
+Jumla,Paddy,Barkhe (Main),2950.0,5900.0,2.0
+Jumla,Potato,Annual,2245.0,34461.0,15.35
+Jumla,Soybean,Annual,44.0,81.0,1.84
+Jumla,Wheat,Annual,2476.0,5408.0,2.18
+Kailali,Barley,Annual,208.0,166.0,0.8
+Kailali,Black Gram,Annual,380.0,342.0,0.9
+Kailali,Buckwheat,Annual,20.0,20.0,1.01
+Kailali,Chickpea,Annual,22.0,26.0,1.2
+Kailali,Lentil,Annual,8505.0,7740.0,0.91
+Kailali,Maize,Annual,6054.0,22460.0,3.71
+Kailali,Millet,Annual,100.0,121.0,1.21
+Kailali,Paddy,Barkhe (Main),67436.0,310784.0,4.61
+Kailali,Paddy,Chaite (Early),1100.0,5720.0,5.2
+Kailali,Pigeon Pea,Annual,62.0,99.0,1.6
+Kailali,Potato,Annual,4865.0,92824.0,19.08
+Kailali,Soybean,Annual,108.0,131.0,1.21
+Kailali,Sugarcane,Annual,230.0,10368.0,45.08
+Kailali,Wheat,Annual,34840.0,123682.0,3.55
+Kalikot,Barley,Annual,551.0,975.0,1.77
+Kalikot,Black Gram,Annual,21.0,17.0,0.81
+Kalikot,Buckwheat,Annual,85.0,142.0,1.67
+Kalikot,Chickpea,Annual,36.0,40.0,1.1
+Kalikot,Lentil,Annual,55.0,54.0,0.98
+Kalikot,Maize,Annual,3550.0,8060.0,2.27
+Kalikot,Millet,Annual,1255.0,1365.0,1.09
+Kalikot,Paddy,Barkhe (Main),2515.0,5282.0,2.1
+Kalikot,Pigeon Pea,Annual,4.0,4.0,1.0
+Kalikot,Potato,Annual,1260.0,20979.0,16.65
+Kalikot,Soybean,Annual,1350.0,1512.0,1.12
+Kalikot,Wheat,Annual,5596.0,11313.0,2.02
+Kanchanpur,Barley,Annual,9.0,7.0,0.76
+Kanchanpur,Black Gram,Annual,196.0,186.0,0.95
+Kanchanpur,Chickpea,Annual,5.0,7.0,1.35
+Kanchanpur,Lentil,Annual,3250.0,2568.0,0.79
+Kanchanpur,Maize,Annual,2950.0,11859.0,4.02
+Kanchanpur,Paddy,Barkhe (Main),48496.0,183800.0,3.79
+Kanchanpur,Paddy,Chaite (Early),129.0,569.0,4.41
+Kanchanpur,Pigeon Pea,Annual,8.0,11.0,1.0
+Kanchanpur,Potato,Annual,1750.0,34125.0,19.5
+Kanchanpur,Soybean,Annual,80.0,99.0,1.24
+Kanchanpur,Sugarcane,Annual,6340.0,388325.0,61.25
+Kanchanpur,Wheat,Annual,31115.0,106102.0,3.41
+Kapilvastu,Barley,Annual,140.0,216.0,1.54
+Kapilvastu,Black Gram,Annual,590.0,570.0,0.97
+Kapilvastu,Buckwheat,Annual,18.0,18.0,1.0
+Kapilvastu,Chickpea,Annual,350.0,382.0,1.09
+Kapilvastu,Lentil,Annual,5320.0,5120.0,0.96
+Kapilvastu,Maize,Annual,1390.0,5675.0,4.08
+Kapilvastu,Paddy,Barkhe (Main),65866.0,276637.0,4.2
+Kapilvastu,Paddy,Chaite (Early),10.0,47.0,4.65
+Kapilvastu,Pigeon Pea,Annual,270.0,260.0,1.0
+Kapilvastu,Potato,Annual,2595.0,39210.0,15.11
+Kapilvastu,Soybean,Annual,5.0,6.0,1.24
+Kapilvastu,Sugarcane,Annual,2875.0,134850.0,46.9
+Kapilvastu,Wheat,Annual,31735.0,111072.0,3.5
+Kaski,Barley,Annual,5.0,5.0,1.2
+Kaski,Black Gram,Annual,302.0,305.0,1.01
+Kaski,Buckwheat,Annual,8.0,9.0,1.13
+Kaski,Lentil,Annual,71.0,69.0,0.97
+Kaski,Maize,Annual,12343.0,36205.0,2.93
+Kaski,Millet,Annual,10152.0,15228.0,1.5
+Kaski,Paddy,Barkhe (Main),16220.0,61474.0,3.79
+Kaski,Paddy,Chaite (Early),440.0,2110.0,4.8
+Kaski,Pigeon Pea,Annual,1.0,1.0,1.0
+Kaski,Potato,Annual,1789.0,35644.0,19.93
+Kaski,Soybean,Annual,265.0,348.0,1.31
+Kaski,Sugarcane,Annual,8.0,102.0,13.6
+Kaski,Wheat,Annual,6010.0,14725.0,2.45
+Kathmandu,Black Gram,Annual,25.0,24.0,0.95
+Kathmandu,Buckwheat,Annual,4.0,4.0,1.03
+Kathmandu,Chickpea,Annual,22.0,21.0,0.94
+Kathmandu,Lentil,Annual,21.0,19.0,0.9
+Kathmandu,Maize,Annual,6315.0,25323.0,4.01
+Kathmandu,Millet,Annual,599.0,629.0,1.05
+Kathmandu,Paddy,Barkhe (Main),5226.0,24562.0,4.7
+Kathmandu,Potato,Annual,916.0,18265.0,19.94
+Kathmandu,Soybean,Annual,242.0,336.0,1.39
+Kathmandu,Wheat,Annual,2040.0,9466.0,4.64
+Kavrepalanchok,Barley,Annual,345.0,338.0,0.98
+Kavrepalanchok,Black Gram,Annual,210.0,189.0,0.9
+Kavrepalanchok,Buckwheat,Annual,510.0,520.0,1.02
+Kavrepalanchok,Chickpea,Annual,35.0,35.0,1.0
+Kavrepalanchok,Lentil,Annual,70.0,84.0,1.2
+Kavrepalanchok,Maize,Annual,25448.0,92122.0,3.62
+Kavrepalanchok,Millet,Annual,3020.0,3896.0,1.29
+Kavrepalanchok,Paddy,Barkhe (Main),8590.0,35047.0,4.08
+Kavrepalanchok,Paddy,Chaite (Early),855.0,3677.0,4.3
+Kavrepalanchok,Potato,Annual,10100.0,209070.0,20.7
+Kavrepalanchok,Soybean,Annual,950.0,1330.0,1.4
+Kavrepalanchok,Wheat,Annual,8250.0,23925.0,2.9
+Khotang,Barley,Annual,23.3,31.28,1.34
+Khotang,Black Gram,Annual,1246.0,1156.0,0.93
+Khotang,Buckwheat,Annual,69.0,73.0,1.06
+Khotang,Lentil,Annual,20.0,26.0,1.3
+Khotang,Maize,Annual,21814.0,39919.0,1.83
+Khotang,Millet,Annual,13332.0,23598.0,1.77
+Khotang,Paddy,Barkhe (Main),9417.0,21188.0,2.25
+Khotang,Paddy,Chaite (Early),1889.0,8553.0,4.53
+Khotang,Potato,Annual,2570.0,23135.0,9.0
+Khotang,Soybean,Annual,485.0,610.0,1.26
+Khotang,Wheat,Annual,1494.0,2212.0,1.48
+Lalitpur,Barley,Annual,39.0,47.0,1.21
+Lalitpur,Black Gram,Annual,84.0,69.0,0.82
+Lalitpur,Chickpea,Annual,57.0,50.0,0.87
+Lalitpur,Lentil,Annual,16.0,17.0,1.06
+Lalitpur,Maize,Annual,9158.0,36815.0,4.02
+Lalitpur,Millet,Annual,518.0,544.0,1.05
+Lalitpur,Paddy,Barkhe (Main),4163.0,19233.0,4.62
+Lalitpur,Potato,Annual,980.0,19541.0,19.94
+Lalitpur,Soybean,Annual,223.0,283.0,1.27
+Lalitpur,Wheat,Annual,2497.0,9339.0,3.74
+Lamjung,Barley,Annual,9.0,14.0,1.56
+Lamjung,Black Gram,Annual,185.0,153.0,0.83
+Lamjung,Buckwheat,Annual,17.0,16.0,0.94
+Lamjung,Chickpea,Annual,6.0,6.0,1.04
+Lamjung,Lentil,Annual,20.0,14.0,0.7
+Lamjung,Maize,Annual,15570.0,33631.0,2.16
+Lamjung,Millet,Annual,7200.0,8640.0,1.2
+Lamjung,Paddy,Barkhe (Main),11875.0,39187.0,3.3
+Lamjung,Paddy,Chaite (Early),805.0,3486.0,4.33
+Lamjung,Pigeon Pea,Annual,3.0,3.0,1.1
+Lamjung,Potato,Annual,1975.0,37000.0,18.73
+Lamjung,Soybean,Annual,369.0,367.0,0.99
+Lamjung,Sugarcane,Annual,5.0,30.0,6.0
+Lamjung,Wheat,Annual,13.0,31.0,2.38
+Mahottari,Barley,Annual,8.0,14.0,1.8
+Mahottari,Black Gram,Annual,410.0,398.0,0.97
+Mahottari,Chickpea,Annual,110.0,132.0,1.2
+Mahottari,Lentil,Annual,4500.0,4950.0,1.1
+Mahottari,Maize,Annual,5000.0,22500.0,4.5
+Mahottari,Millet,Annual,350.0,385.0,1.0
+Mahottari,Paddy,Barkhe (Main),40250.0,123568.0,3.07
+Mahottari,Paddy,Chaite (Early),451.0,1914.0,4.24
+Mahottari,Pigeon Pea,Annual,810.0,932.0,1.15
+Mahottari,Potato,Annual,4000.0,64000.0,16.0
+Mahottari,Soybean,Annual,55.0,80.0,1.46
+Mahottari,Sugarcane,Annual,6200.0,341000.0,55.0
+Mahottari,Wheat,Annual,29100.0,97951.0,3.37
+Makwanpur,Black Gram,Annual,355.0,405.0,1.14
+Makwanpur,Buckwheat,Annual,1050.0,1365.0,1.3
+Makwanpur,Chickpea,Annual,26.0,29.0,1.12
+Makwanpur,Lentil,Annual,247.0,331.0,1.34
+Makwanpur,Maize,Annual,19069.0,64072.0,3.36
+Makwanpur,Millet,Annual,5550.0,7382.0,1.33
+Makwanpur,Paddy,Barkhe (Main),9638.0,35661.0,3.7
+Makwanpur,Paddy,Chaite (Early),2530.0,10626.0,4.2
+Makwanpur,Pigeon Pea,Annual,5.0,7.0,1.3
+Makwanpur,Potato,Annual,2872.0,58014.0,20.2
+Makwanpur,Soybean,Annual,1353.0,1921.0,1.42
+Makwanpur,Sugarcane,Annual,6.0,192.0,32.0
+Makwanpur,Wheat,Annual,1704.0,4976.0,2.92
+Manang,Barley,Annual,50.0,102.0,2.04
+Manang,Buckwheat,Annual,296.0,295.0,1.0
+Manang,Chickpea,Annual,2.0,2.0,1.0
+Manang,Lentil,Annual,2.0,2.0,1.0
+Manang,Maize,Annual,135.0,267.0,1.98
+Manang,Millet,Annual,2.0,2.0,1.0
+Manang,Potato,Annual,740.0,9215.0,12.45
+Manang,Soybean,Annual,8.0,9.0,1.13
+Manang,Wheat,Annual,110.0,231.0,2.1
+Morang,Black Gram,Annual,750.0,562.5,0.75
+Morang,Buckwheat,Annual,55.0,62.0,1.13
+Morang,Chickpea,Annual,245.0,294.0,1.2
+Morang,Lentil,Annual,1216.0,1725.3,1.42
+Morang,Maize,Annual,20452.0,141119.0,6.9
+Morang,Millet,Annual,1320.0,1637.0,1.24
+Morang,Paddy,Barkhe (Main),69817.0,335122.0,4.8
+Morang,Paddy,Chaite (Early),17670.0,98952.0,5.6
+Morang,Pigeon Pea,Annual,340.0,340.0,1.0
+Morang,Potato,Annual,6060.0,90900.0,15.0
+Morang,Soybean,Annual,409.0,703.0,1.72
+Morang,Sugarcane,Annual,1833.0,108789.0,59.35
+Morang,Wheat,Annual,11960.0,35880.0,3.0
+Mugu,Barley,Annual,512.0,910.0,1.78
+Mugu,Black Gram,Annual,22.0,22.0,1.0
+Mugu,Buckwheat,Annual,608.0,653.0,1.07
+Mugu,Maize,Annual,1222.0,2139.0,1.75
+Mugu,Millet,Annual,2125.0,4196.0,1.97
+Mugu,Paddy,Barkhe (Main),591.0,1005.0,1.7
+Mugu,Pigeon Pea,Annual,3.0,3.0,1.0
+Mugu,Potato,Annual,715.0,11261.0,15.75
+Mugu,Soybean,Annual,37.0,37.0,1.0
+Mugu,Wheat,Annual,1757.0,3272.0,1.86
+Mustang,Barley,Annual,44.0,91.0,2.07
+Mustang,Buckwheat,Annual,130.0,247.0,1.9
+Mustang,Maize,Annual,41.0,61.0,1.48
+Mustang,Potato,Annual,461.0,8476.0,18.38
+Mustang,Wheat,Annual,115.0,430.0,3.73
+Myagdi,Barley,Annual,250.0,360.0,1.44
+Myagdi,Black Gram,Annual,80.0,84.0,1.05
+Myagdi,Buckwheat,Annual,150.0,165.0,1.1
+Myagdi,Lentil,Annual,8.0,7.0,0.88
+Myagdi,Maize,Annual,9200.0,28520.0,3.1
+Myagdi,Millet,Annual,2450.0,3400.0,1.39
+Myagdi,Paddy,Barkhe (Main),3806.0,13702.0,3.6
+Myagdi,Pigeon Pea,Annual,20.0,24.0,1.2
+Myagdi,Potato,Annual,1700.0,27000.0,15.88
+Myagdi,Soybean,Annual,540.0,700.0,1.3
+Myagdi,Wheat,Annual,2310.0,5336.0,2.31
+Nawalparasi East,Barley,Annual,138.0,172.0,1.25
+Nawalparasi East,Black Gram,Annual,149.0,137.0,0.92
+Nawalparasi East,Buckwheat,Annual,93.0,92.0,0.99
+Nawalparasi East,Chickpea,Annual,99.0,119.0,1.2
+Nawalparasi East,Lentil,Annual,4144.0,4954.0,1.2
+Nawalparasi East,Maize,Annual,4562.0,13585.0,2.98
+Nawalparasi East,Millet,Annual,257.0,305.0,1.19
+Nawalparasi East,Paddy,Barkhe (Main),18716.0,77865.0,4.16
+Nawalparasi East,Paddy,Chaite (Early),1210.0,6123.0,5.06
+Nawalparasi East,Pigeon Pea,Annual,218.0,112.0,0.51
+Nawalparasi East,Potato,Annual,3205.0,58413.0,18.23
+Nawalparasi East,Soybean,Annual,92.0,83.0,0.9
+Nawalparasi East,Sugarcane,Annual,235.0,10810.0,46.0
+Nawalparasi East,Wheat,Annual,7028.0,20240.0,2.88
+Nawalparasi West,Barley,Annual,9.0,10.7,1.19
+Nawalparasi West,Black Gram,Annual,49.0,46.0,0.93
+Nawalparasi West,Buckwheat,Annual,4.0,4.3,1.08
+Nawalparasi West,Chickpea,Annual,81.0,89.0,1.1
+Nawalparasi West,Lentil,Annual,3235.0,3199.0,0.99
+Nawalparasi West,Maize,Annual,3901.0,15597.0,4.0
+Nawalparasi West,Millet,Annual,38.0,40.0,1.04
+Nawalparasi West,Paddy,Barkhe (Main),19885.0,91471.0,4.6
+Nawalparasi West,Paddy,Chaite (Early),5.0,23.0,4.66
+Nawalparasi West,Pigeon Pea,Annual,195.0,182.0,0.93
+Nawalparasi West,Potato,Annual,1702.0,25190.0,14.8
+Nawalparasi West,Soybean,Annual,41.0,57.0,1.38
+Nawalparasi West,Sugarcane,Annual,3450.0,163254.0,47.32
+Nawalparasi West,Wheat,Annual,8595.0,27246.0,3.17
+Nuwakot,Barley,Annual,153.0,193.0,1.26
+Nuwakot,Black Gram,Annual,179.0,167.0,0.93
+Nuwakot,Buckwheat,Annual,219.0,230.0,1.05
+Nuwakot,Chickpea,Annual,28.0,23.0,0.82
+Nuwakot,Lentil,Annual,46.0,46.0,1.0
+Nuwakot,Maize,Annual,16217.0,49462.0,3.05
+Nuwakot,Millet,Annual,5114.0,7262.0,1.42
+Nuwakot,Paddy,Barkhe (Main),11612.0,46136.0,3.97
+Nuwakot,Paddy,Chaite (Early),6255.0,27397.0,4.38
+Nuwakot,Pigeon Pea,Annual,3.0,2.0,0.67
+Nuwakot,Potato,Annual,4490.0,81572.0,18.17
+Nuwakot,Soybean,Annual,415.0,699.0,1.68
+Nuwakot,Sugarcane,Annual,52.0,1170.0,22.5
+Nuwakot,Wheat,Annual,4493.0,16040.0,3.57
+Okhaldhunga,Barley,Annual,80.0,125.0,1.56
+Okhaldhunga,Black Gram,Annual,573.0,530.0,0.92
+Okhaldhunga,Buckwheat,Annual,93.0,79.0,0.85
+Okhaldhunga,Lentil,Annual,7.0,3.15,0.45
+Okhaldhunga,Maize,Annual,12400.0,42160.0,3.4
+Okhaldhunga,Millet,Annual,7751.0,12517.0,1.61
+Okhaldhunga,Paddy,Barkhe (Main),3803.0,9508.0,2.5
+Okhaldhunga,Paddy,Chaite (Early),245.0,1036.0,4.23
+Okhaldhunga,Potato,Annual,2944.0,46220.0,15.7
+Okhaldhunga,Soybean,Annual,128.0,140.0,1.09
+Okhaldhunga,Sugarcane,Annual,4.0,32.0,9.0
+Okhaldhunga,Wheat,Annual,2145.0,4076.0,1.9
+Palpa,Barley,Annual,110.0,124.3,1.13
+Palpa,Black Gram,Annual,55.0,51.0,0.92
+Palpa,Buckwheat,Annual,210.0,233.1,1.11
+Palpa,Chickpea,Annual,45.0,41.0,0.92
+Palpa,Lentil,Annual,115.0,106.0,0.92
+Palpa,Maize,Annual,21862.0,75661.0,3.46
+Palpa,Millet,Annual,2363.0,3101.0,1.31
+Palpa,Paddy,Barkhe (Main),7389.0,33620.0,4.55
+Palpa,Paddy,Chaite (Early),700.0,2240.0,3.2
+Palpa,Pigeon Pea,Annual,37.0,33.0,0.88
+Palpa,Potato,Annual,810.0,12336.0,15.23
+Palpa,Soybean,Annual,311.0,386.0,1.24
+Palpa,Sugarcane,Annual,5.0,240.0,47.9
+Palpa,Wheat,Annual,5765.0,16430.0,2.85
+Panchthar,Barley,Annual,302.0,393.0,1.3
+Panchthar,Black Gram,Annual,721.0,793.1,1.1
+Panchthar,Buckwheat,Annual,50.0,37.0,0.74
+Panchthar,Chickpea,Annual,21.0,14.91,0.71
+Panchthar,Lentil,Annual,405.0,477.9,1.18
+Panchthar,Maize,Annual,18808.0,67709.0,3.6
+Panchthar,Millet,Annual,3208.0,6416.0,2.0
+Panchthar,Paddy,Barkhe (Main),5615.0,13308.0,2.37
+Panchthar,Paddy,Chaite (Early),2184.0,9828.0,4.5
+Panchthar,Pigeon Pea,Annual,7.5,8.25,1.1
+Panchthar,Potato,Annual,2526.0,43396.0,17.18
+Panchthar,Soybean,Annual,625.0,813.0,1.3
+Panchthar,Sugarcane,Annual,3.0,25.0,10.0
+Panchthar,Wheat,Annual,3725.0,6035.0,1.62
+Parbat,Barley,Annual,53.0,54.0,1.02
+Parbat,Black Gram,Annual,130.0,133.0,1.02
+Parbat,Buckwheat,Annual,81.0,100.0,1.23
+Parbat,Chickpea,Annual,17.0,17.0,1.0
+Parbat,Lentil,Annual,62.0,69.0,1.11
+Parbat,Maize,Annual,13600.0,33120.0,2.44
+Parbat,Millet,Annual,7340.0,7850.0,1.07
+Parbat,Paddy,Barkhe (Main),7525.0,26120.0,3.47
+Parbat,Paddy,Chaite (Early),100.0,480.0,4.8
+Parbat,Pigeon Pea,Annual,9.0,9.0,1.0
+Parbat,Potato,Annual,1390.0,20330.0,14.63
+Parbat,Soybean,Annual,91.0,94.0,1.03
+Parbat,Wheat,Annual,2220.0,5220.0,2.35
+Parsa,Barley,Annual,28.0,37.0,1.3
+Parsa,Black Gram,Annual,80.0,80.0,1.0
+Parsa,Chickpea,Annual,245.0,296.0,1.21
+Parsa,Lentil,Annual,4210.0,5220.0,1.24
+Parsa,Maize,Annual,3890.0,15599.0,4.01
+Parsa,Millet,Annual,407.0,440.0,1.0
+Parsa,Paddy,Barkhe (Main),47130.0,197946.0,4.2
+Parsa,Paddy,Chaite (Early),3500.0,18900.0,5.4
+Parsa,Pigeon Pea,Annual,189.0,206.0,1.09
+Parsa,Potato,Annual,3309.0,57378.0,17.34
+Parsa,Soybean,Annual,18.0,25.0,1.41
+Parsa,Sugarcane,Annual,3121.0,168565.0,54.01
+Parsa,Wheat,Annual,23020.0,85865.0,3.73
+Pyuthan,Barley,Annual,544.0,587.5,1.08
+Pyuthan,Black Gram,Annual,315.0,296.0,0.94
+Pyuthan,Buckwheat,Annual,61.0,66.7,1.09
+Pyuthan,Chickpea,Annual,75.0,81.0,1.08
+Pyuthan,Lentil,Annual,136.0,127.0,0.93
+Pyuthan,Maize,Annual,12140.0,40097.0,3.3
+Pyuthan,Millet,Annual,1885.0,2488.0,1.32
+Pyuthan,Paddy,Barkhe (Main),6460.0,23772.0,3.68
+Pyuthan,Paddy,Chaite (Early),40.0,180.0,4.5
+Pyuthan,Potato,Annual,1680.0,26621.0,15.85
+Pyuthan,Soybean,Annual,251.0,329.0,1.31
+Pyuthan,Sugarcane,Annual,10.0,487.0,48.67
+Pyuthan,Wheat,Annual,8651.0,25087.0,2.9
+Ramechhap,Barley,Annual,61.0,82.0,1.35
+Ramechhap,Black Gram,Annual,119.0,121.0,1.02
+Ramechhap,Buckwheat,Annual,18.0,15.0,0.83
+Ramechhap,Chickpea,Annual,32.0,23.0,0.71
+Ramechhap,Lentil,Annual,36.0,37.0,1.04
+Ramechhap,Maize,Annual,22169.0,64290.0,2.9
+Ramechhap,Millet,Annual,4886.0,5472.0,1.12
+Ramechhap,Paddy,Barkhe (Main),7889.0,19407.0,2.46
+Ramechhap,Paddy,Chaite (Early),65.0,202.0,3.11
+Ramechhap,Pigeon Pea,Annual,3.0,2.0,0.5
+Ramechhap,Potato,Annual,3286.0,50210.0,15.28
+Ramechhap,Soybean,Annual,827.0,1075.0,1.3
+Ramechhap,Wheat,Annual,3677.0,8163.0,2.22
+Rasuwa,Barley,Annual,242.0,329.0,1.36
+Rasuwa,Black Gram,Annual,155.0,157.0,1.01
+Rasuwa,Buckwheat,Annual,21.0,19.0,0.9
+Rasuwa,Chickpea,Annual,192.0,211.0,1.1
+Rasuwa,Lentil,Annual,247.0,245.0,0.99
+Rasuwa,Maize,Annual,2530.0,6401.0,2.53
+Rasuwa,Millet,Annual,897.0,1014.0,1.13
+Rasuwa,Paddy,Barkhe (Main),1093.0,2197.0,2.01
+Rasuwa,Paddy,Chaite (Early),153.0,572.0,3.74
+Rasuwa,Pigeon Pea,Annual,2.0,2.0,1.0
+Rasuwa,Potato,Annual,2629.0,42466.0,16.15
+Rasuwa,Soybean,Annual,366.0,500.0,1.37
+Rasuwa,Wheat,Annual,760.0,1231.0,1.62
+Rautahat,Barley,Annual,2.0,3.0,1.5
+Rautahat,Black Gram,Annual,10.0,11.0,1.06
+Rautahat,Chickpea,Annual,150.0,210.0,1.4
+Rautahat,Lentil,Annual,15600.0,17900.0,1.15
+Rautahat,Maize,Annual,4950.0,20700.0,4.18
+Rautahat,Millet,Annual,25.0,25.0,1.0
+Rautahat,Paddy,Barkhe (Main),35632.0,114022.0,3.2
+Rautahat,Paddy,Chaite (Early),1202.0,4891.0,4.07
+Rautahat,Pigeon Pea,Annual,60.0,63.0,1.04
+Rautahat,Potato,Annual,2200.0,41060.0,18.66
+Rautahat,Soybean,Annual,3.0,4.0,1.42
+Rautahat,Sugarcane,Annual,2825.0,171200.0,60.61
+Rautahat,Wheat,Annual,14800.0,58200.0,3.93
+Rolpa,Barley,Annual,540.0,637.2,1.18
+Rolpa,Black Gram,Annual,148.0,138.0,0.93
+Rolpa,Buckwheat,Annual,91.0,97.3,1.07
+Rolpa,Chickpea,Annual,29.0,23.0,0.78
+Rolpa,Lentil,Annual,76.0,59.0,0.78
+Rolpa,Maize,Annual,12700.0,39724.0,3.13
+Rolpa,Millet,Annual,1236.0,1618.0,1.31
+Rolpa,Paddy,Barkhe (Main),4545.0,12993.0,2.86
+Rolpa,Pigeon Pea,Annual,5.0,5.0,0.9
+Rolpa,Potato,Annual,2085.0,35109.0,16.84
+Rolpa,Soybean,Annual,301.0,379.0,1.26
+Rolpa,Sugarcane,Annual,3.0,135.0,45.07
+Rolpa,Wheat,Annual,8490.0,21225.0,2.5
+Rukum East,Barley,Annual,570.0,737.0,1.29
+Rukum East,Black Gram,Annual,71.0,70.0,0.98
+Rukum East,Buckwheat,Annual,45.0,52.0,1.16
+Rukum East,Chickpea,Annual,14.0,11.0,0.81
+Rukum East,Lentil,Annual,70.0,64.0,0.92
+Rukum East,Maize,Annual,5048.0,16641.0,3.3
+Rukum East,Millet,Annual,350.0,458.0,1.31
+Rukum East,Paddy,Barkhe (Main),820.0,2558.0,3.12
+Rukum East,Pigeon Pea,Annual,1.0,1.0,0.8
+Rukum East,Potato,Annual,1125.0,19077.0,16.96
+Rukum East,Soybean,Annual,151.0,183.0,1.21
+Rukum East,Sugarcane,Annual,2.0,87.0,43.45
+Rukum East,Wheat,Annual,3213.0,9285.0,2.89
+Rukum West,Barley,Annual,310.0,510.0,1.65
+Rukum West,Black Gram,Annual,81.0,72.0,0.89
+Rukum West,Buckwheat,Annual,25.0,28.0,1.12
+Rukum West,Chickpea,Annual,38.0,45.0,1.18
+Rukum West,Lentil,Annual,155.0,110.0,0.71
+Rukum West,Maize,Annual,8900.0,35340.0,3.97
+Rukum West,Millet,Annual,455.0,625.0,1.37
+Rukum West,Paddy,Barkhe (Main),3048.0,9449.0,3.1
+Rukum West,Pigeon Pea,Annual,4.0,5.0,1.25
+Rukum West,Potato,Annual,713.0,14317.0,20.08
+Rukum West,Soybean,Annual,78.0,84.0,1.08
+Rukum West,Sugarcane,Annual,5.0,106.0,21.2
+Rukum West,Wheat,Annual,9080.0,21713.0,2.39
+Rupandehi,Barley,Annual,65.0,105.5,1.62
+Rupandehi,Black Gram,Annual,56.0,62.0,1.1
+Rupandehi,Chickpea,Annual,118.0,105.0,0.89
+Rupandehi,Lentil,Annual,5420.0,5280.0,0.97
+Rupandehi,Maize,Annual,2639.0,10985.0,4.16
+Rupandehi,Millet,Annual,28.0,32.0,1.16
+Rupandehi,Paddy,Barkhe (Main),60322.0,278084.0,4.61
+Rupandehi,Paddy,Chaite (Early),60.0,290.0,4.83
+Rupandehi,Pigeon Pea,Annual,345.0,323.0,0.93
+Rupandehi,Potato,Annual,2495.0,39421.0,15.8
+Rupandehi,Soybean,Annual,13.0,16.0,1.23
+Rupandehi,Sugarcane,Annual,348.0,16161.0,46.44
+Rupandehi,Wheat,Annual,27356.0,108490.0,3.97
+Salyan,Barley,Annual,520.0,875.0,1.68
+Salyan,Black Gram,Annual,130.0,156.0,1.2
+Salyan,Buckwheat,Annual,30.0,27.0,0.9
+Salyan,Chickpea,Annual,170.0,389.0,2.29
+Salyan,Lentil,Annual,986.0,799.0,0.81
+Salyan,Maize,Annual,17650.0,74700.0,4.23
+Salyan,Millet,Annual,1010.0,1210.0,1.2
+Salyan,Paddy,Barkhe (Main),6125.0,23275.0,3.8
+Salyan,Paddy,Chaite (Early),7.0,33.0,4.71
+Salyan,Pigeon Pea,Annual,2.0,3.0,1.29
+Salyan,Potato,Annual,2335.0,26759.0,11.46
+Salyan,Soybean,Annual,1680.0,2184.0,1.3
+Salyan,Sugarcane,Annual,7.0,40.0,5.71
+Salyan,Wheat,Annual,13125.0,28528.0,2.17
+Sankhuwasabha,Barley,Annual,13.5,17.55,1.3
+Sankhuwasabha,Black Gram,Annual,615.0,565.8,0.92
+Sankhuwasabha,Buckwheat,Annual,17.0,22.0,1.35
+Sankhuwasabha,Lentil,Annual,15.0,18.0,1.2
+Sankhuwasabha,Maize,Annual,12460.0,30527.0,2.45
+Sankhuwasabha,Millet,Annual,6669.0,8803.0,1.32
+Sankhuwasabha,Paddy,Barkhe (Main),8068.0,20170.0,2.5
+Sankhuwasabha,Paddy,Chaite (Early),2268.0,10206.0,4.5
+Sankhuwasabha,Potato,Annual,2710.0,42005.0,15.5
+Sankhuwasabha,Soybean,Annual,400.0,328.0,0.82
+Sankhuwasabha,Sugarcane,Annual,55.0,1018.0,18.59
+Sankhuwasabha,Wheat,Annual,714.0,1714.0,2.4
+Saptari,Barley,Annual,79.0,79.0,1.0
+Saptari,Black Gram,Annual,724.0,767.0,1.06
+Saptari,Chickpea,Annual,913.0,876.0,0.96
+Saptari,Lentil,Annual,7613.0,7232.0,0.95
+Saptari,Maize,Annual,5150.0,18025.0,3.5
+Saptari,Millet,Annual,210.0,273.0,1.3
+Saptari,Paddy,Barkhe (Main),59315.0,189808.0,3.2
+Saptari,Paddy,Chaite (Early),531.0,2533.0,4.77
+Saptari,Pigeon Pea,Annual,811.0,787.0,0.97
+Saptari,Potato,Annual,6473.0,77676.0,12.0
+Saptari,Soybean,Annual,10.0,14.0,1.4
+Saptari,Sugarcane,Annual,250.0,5000.0,20.0
+Saptari,Wheat,Annual,19412.0,70543.0,3.63
+Sarlahi,Barley,Annual,62.0,71.0,1.14
+Sarlahi,Black Gram,Annual,350.0,343.0,0.98
+Sarlahi,Chickpea,Annual,780.0,780.0,1.0
+Sarlahi,Lentil,Annual,7887.0,8045.0,1.02
+Sarlahi,Maize,Annual,11400.0,62700.0,5.5
+Sarlahi,Millet,Annual,709.0,638.0,0.9
+Sarlahi,Paddy,Barkhe (Main),45875.0,142213.0,3.1
+Sarlahi,Paddy,Chaite (Early),450.0,2097.0,4.66
+Sarlahi,Pigeon Pea,Annual,3120.0,3120.0,1.0
+Sarlahi,Potato,Annual,2840.0,44616.0,15.71
+Sarlahi,Soybean,Annual,20.0,27.0,1.36
+Sarlahi,Sugarcane,Annual,12000.0,504000.0,42.0
+Sarlahi,Wheat,Annual,23350.0,78456.0,3.36
+Sindhuli,Barley,Annual,13.0,22.0,1.69
+Sindhuli,Black Gram,Annual,386.0,346.0,0.9
+Sindhuli,Buckwheat,Annual,365.0,621.0,1.7
+Sindhuli,Chickpea,Annual,68.0,79.0,1.16
+Sindhuli,Lentil,Annual,265.0,325.0,1.23
+Sindhuli,Maize,Annual,25982.0,84701.0,3.26
+Sindhuli,Millet,Annual,10842.0,11059.0,1.02
+Sindhuli,Paddy,Barkhe (Main),11612.0,46448.0,4.0
+Sindhuli,Paddy,Chaite (Early),1051.0,4320.0,4.11
+Sindhuli,Pigeon Pea,Annual,82.0,105.0,1.28
+Sindhuli,Potato,Annual,2621.0,47239.0,18.02
+Sindhuli,Soybean,Annual,279.0,426.0,1.53
+Sindhuli,Wheat,Annual,5208.0,13645.0,2.62
+Sindhupalchok,Barley,Annual,150.0,141.0,0.94
+Sindhupalchok,Black Gram,Annual,1250.0,1188.0,0.95
+Sindhupalchok,Buckwheat,Annual,203.0,183.0,0.9
+Sindhupalchok,Chickpea,Annual,170.0,179.0,1.05
+Sindhupalchok,Lentil,Annual,200.0,198.0,0.99
+Sindhupalchok,Maize,Annual,26691.0,85146.0,3.19
+Sindhupalchok,Millet,Annual,17371.0,22756.0,1.31
+Sindhupalchok,Paddy,Barkhe (Main),7142.0,20712.0,2.9
+Sindhupalchok,Paddy,Chaite (Early),970.0,3938.0,4.06
+Sindhupalchok,Potato,Annual,4220.0,80602.0,19.1
+Sindhupalchok,Soybean,Annual,570.0,758.0,1.33
+Sindhupalchok,Wheat,Annual,6687.0,11034.0,1.65
+Siraha,Barley,Annual,95.0,152.0,1.06
+Siraha,Black Gram,Annual,720.0,778.0,1.08
+Siraha,Chickpea,Annual,460.0,529.0,1.15
+Siraha,Lentil,Annual,9785.0,10764.0,1.1
+Siraha,Maize,Annual,3411.0,16374.0,4.8
+Siraha,Millet,Annual,645.0,6967.0,1.49
+Siraha,Paddy,Barkhe (Main),45887.0,160605.0,3.5
+Siraha,Paddy,Chaite (Early),1345.0,6120.0,4.55
+Siraha,Pigeon Pea,Annual,435.0,413.0,0.95
+Siraha,Potato,Annual,2995.0,26596.0,8.88
+Siraha,Soybean,Annual,20.0,30.0,1.51
+Siraha,Sugarcane,Annual,3575.0,182325.0,51.0
+Siraha,Wheat,Annual,14250.0,52896.0,3.71
+Solukhumbu,Barley,Annual,165.0,177.21,1.07
+Solukhumbu,Black Gram,Annual,43.0,43.3,1.01
+Solukhumbu,Buckwheat,Annual,301.0,276.0,0.92
+Solukhumbu,Maize,Annual,13770.0,33184.0,2.41
+Solukhumbu,Millet,Annual,2105.0,2819.0,1.34
+Solukhumbu,Paddy,Barkhe (Main),1225.0,3344.0,2.73
+Solukhumbu,Potato,Annual,5695.0,92600.0,16.26
+Solukhumbu,Soybean,Annual,180.0,204.0,1.13
+Solukhumbu,Wheat,Annual,2665.0,5304.0,1.99
+Sunsari,Black Gram,Annual,476.0,316.67,0.67
+Sunsari,Buckwheat,Annual,248.0,258.0,1.04
+Sunsari,Chickpea,Annual,106.0,145.22,1.37
+Sunsari,Lentil,Annual,6755.0,8306.54,1.23
+Sunsari,Maize,Annual,10641.0,55333.0,5.2
+Sunsari,Millet,Annual,458.0,564.0,1.23
+Sunsari,Paddy,Barkhe (Main),48009.0,213160.0,4.44
+Sunsari,Paddy,Chaite (Early),5010.0,27605.0,5.51
+Sunsari,Pigeon Pea,Annual,217.0,189.26,0.87
+Sunsari,Potato,Annual,2940.0,47275.0,16.08
+Sunsari,Soybean,Annual,55.0,65.0,1.18
+Sunsari,Sugarcane,Annual,3555.0,209283.0,58.87
+Sunsari,Wheat,Annual,12248.0,41298.0,3.37
+Surkhet,Barley,Annual,476.0,870.0,1.83
+Surkhet,Black Gram,Annual,250.0,285.0,1.14
+Surkhet,Buckwheat,Annual,56.0,85.0,1.52
+Surkhet,Chickpea,Annual,440.0,422.0,0.96
+Surkhet,Lentil,Annual,1281.0,1307.0,1.02
+Surkhet,Maize,Annual,15225.0,45475.0,2.99
+Surkhet,Millet,Annual,1830.0,2700.0,1.48
+Surkhet,Paddy,Barkhe (Main),15060.0,62951.0,4.18
+Surkhet,Paddy,Chaite (Early),35.0,201.0,5.74
+Surkhet,Pigeon Pea,Annual,5.0,5.0,1.0
+Surkhet,Potato,Annual,1345.0,24291.0,18.06
+Surkhet,Soybean,Annual,327.0,399.0,1.22
+Surkhet,Sugarcane,Annual,3.0,86.0,28.67
+Surkhet,Wheat,Annual,12050.0,34102.0,2.83
+Syangja,Barley,Annual,6.0,5.0,0.83
+Syangja,Black Gram,Annual,130.0,156.0,1.2
+Syangja,Buckwheat,Annual,150.0,120.0,0.8
+Syangja,Chickpea,Annual,10.0,11.0,1.1
+Syangja,Lentil,Annual,89.0,81.0,0.91
+Syangja,Maize,Annual,18048.0,57754.0,3.2
+Syangja,Millet,Annual,11186.0,12305.0,1.1
+Syangja,Paddy,Barkhe (Main),14390.0,57560.0,4.0
+Syangja,Paddy,Chaite (Early),775.0,3557.0,4.59
+Syangja,Pigeon Pea,Annual,7.0,7.0,0.93
+Syangja,Potato,Annual,1050.0,19005.0,18.1
+Syangja,Soybean,Annual,100.0,150.0,1.5
+Syangja,Sugarcane,Annual,50.0,750.0,15.0
+Syangja,Wheat,Annual,4175.0,7515.0,1.8
+Tanahun,Barley,Annual,4.0,4.0,1.18
+Tanahun,Black Gram,Annual,3448.0,2800.0,0.81
+Tanahun,Buckwheat,Annual,125.0,127.0,1.02
+Tanahun,Chickpea,Annual,4.0,4.0,1.0
+Tanahun,Lentil,Annual,181.0,190.0,1.05
+Tanahun,Maize,Annual,22195.0,73243.0,3.3
+Tanahun,Millet,Annual,6050.0,7017.0,1.16
+Tanahun,Paddy,Barkhe (Main),7674.0,29238.0,3.81
+Tanahun,Paddy,Chaite (Early),1805.0,8486.0,4.7
+Tanahun,Pigeon Pea,Annual,15.0,14.0,0.93
+Tanahun,Potato,Annual,1891.0,34662.0,18.33
+Tanahun,Soybean,Annual,310.0,350.0,1.13
+Tanahun,Sugarcane,Annual,20.0,829.0,41.45
+Tanahun,Wheat,Annual,1150.0,2887.0,2.51
+Taplejung,Barley,Annual,266.0,372.0,1.4
+Taplejung,Black Gram,Annual,64.0,77.0,1.21
+Taplejung,Buckwheat,Annual,118.0,130.0,1.1
+Taplejung,Maize,Annual,11210.0,39918.0,3.56
+Taplejung,Millet,Annual,2966.0,4270.0,1.44
+Taplejung,Paddy,Barkhe (Main),5553.0,15826.0,2.85
+Taplejung,Paddy,Chaite (Early),32.0,138.0,4.3
+Taplejung,Potato,Annual,4271.0,76878.0,18.0
+Taplejung,Soybean,Annual,192.0,170.0,0.89
+Taplejung,Wheat,Annual,1498.0,2786.0,1.86
+Terhathum,Barley,Annual,50.0,58.6,1.17
+Terhathum,Black Gram,Annual,767.0,663.5,0.87
+Terhathum,Buckwheat,Annual,21.0,21.0,0.98
+Terhathum,Lentil,Annual,28.0,45.26,1.62
+Terhathum,Maize,Annual,12907.0,36269.0,2.81
+Terhathum,Millet,Annual,2120.0,2521.0,1.19
+Terhathum,Paddy,Barkhe (Main),6549.0,15521.0,2.37
+Terhathum,Paddy,Chaite (Early),290.0,1256.0,4.33
+Terhathum,Pigeon Pea,Annual,2.0,2.1,1.05
+Terhathum,Potato,Annual,3039.0,53577.0,17.63
+Terhathum,Soybean,Annual,475.0,948.0,2.0
+Terhathum,Wheat,Annual,1396.0,2781.0,1.99
+Udayapur,Barley,Annual,23.0,40.25,1.75
+Udayapur,Black Gram,Annual,391.1,285.5,0.73
+Udayapur,Buckwheat,Annual,18.0,20.0,1.12
+Udayapur,Chickpea,Annual,136.2,189.32,1.39
+Udayapur,Lentil,Annual,592.0,597.92,1.01
+Udayapur,Maize,Annual,17842.0,43891.0,2.46
+Udayapur,Millet,Annual,2768.0,5453.0,1.97
+Udayapur,Paddy,Barkhe (Main),12794.0,51176.0,4.0
+Udayapur,Paddy,Chaite (Early),1555.0,7153.0,4.6
+Udayapur,Pigeon Pea,Annual,183.1,188.6,1.03
+Udayapur,Potato,Annual,1018.0,14761.0,14.5
+Udayapur,Soybean,Annual,391.0,485.0,1.24
+Udayapur,Wheat,Annual,5130.0,12825.0,2.5
